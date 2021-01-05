@@ -1,0 +1,1 @@
+export const BOTTOM_POSITION_HIDDEN_MODAL = 500
