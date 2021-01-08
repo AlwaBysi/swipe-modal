@@ -41,7 +41,7 @@
       lorekrepdsfsdfk lklskadfn sadfjkdfff
     </template>
     <template v-slot:footer>
-      <button @click="methods.buttonClickedInModal">
+      <button>
         test
       </button>
     </template>
