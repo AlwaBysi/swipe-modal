@@ -1,0 +1,24 @@
+{
+  "name": "swipe-modal",
+  "version": "1.0.1",
+  "description": "swipe modal for desctop and mobile devices",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimbleStalker/swipe-modal.git"
+  },
+  "keywords": [
+    "vue-3",
+    "vue-swipe-modal",
+    "vue-typescript"
+  ],
+  "author": "nimble-stalker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nimbleStalker/swipe-modal/issues"
+  },
+  "homepage": "https://github.com/nimbleStalker/swipe-modal#readme"
+}
