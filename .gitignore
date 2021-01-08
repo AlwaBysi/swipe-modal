@@ -1,5 +1,6 @@
 .DS_Store
 demo-vue-3/node_modules
+plugin-demo/node_modules
 /dist
 
 # Editor directories and files
