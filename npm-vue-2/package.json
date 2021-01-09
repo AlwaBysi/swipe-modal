@@ -1,0 +1,23 @@
+{
+  "name": "swipe-modal-2",
+  "version": "1.0.2",
+  "description": "Swipe modal for modal and desktop devices Try to close it in mobile device by finger or on desktop close it by click.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimbleStalker/swipe-modal.git"
+  },
+  "keywords": [
+    "vue-2",
+    "swipe-modal"
+  ],
+  "author": "nimbleStalker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nimbleStalker/swipe-modal/issues"
+  },
+  "homepage": "https://github.com/nimbleStalker/swipe-modal#readme"
+}
