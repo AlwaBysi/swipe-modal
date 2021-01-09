@@ -1,5 +1,6 @@
 .DS_Store
 demo-vue-3/node_modules
+demo-vue-2/node_modules
 plugin-demo/node_modules
 /dist
 
